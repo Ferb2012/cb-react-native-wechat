@@ -1,0 +1,71 @@
+{
+  "_args": [
+    [
+      "git+https://gitee.com/putixie/react-native-wechat.git",
+      "/Users/milin/Desktop/ZYP/zyp-react-native-cblm"
+    ]
+  ],
+  "_from": "git+https://gitee.com/putixie/react-native-wechat.git",
+  "_id": "react-native-wechat@git+https://gitee.com/putixie/react-native-wechat.git#1022f4b98a750ad137fdb0013a44d9bec7c24fe9",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-wechat",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+https://gitee.com/putixie/react-native-wechat.git",
+    "rawSpec": "git+https://gitee.com/putixie/react-native-wechat.git",
+    "saveSpec": "git+https://gitee.com/putixie/react-native-wechat.git",
+    "fetchSpec": "https://gitee.com/putixie/react-native-wechat.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://gitee.com/putixie/react-native-wechat.git#1022f4b98a750ad137fdb0013a44d9bec7c24fe9",
+  "_spec": "git+https://gitee.com/putixie/react-native-wechat.git",
+  "_where": "/Users/milin/Desktop/ZYP/zyp-react-native-cblm",
+  "author": {
+    "name": "Yorkie Liu",
+    "email": "yorkiefixer@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/weflex/react-native-wechat/issues"
+  },
+  "contributors": [
+    {
+      "name": "Yorkie Liu",
+      "email": "yorkiefixer@gmail.com"
+    },
+    {
+      "name": "Deng Yun",
+      "email": "tdzl2003@gmail.com"
+    }
+  ],
+  "dependencies": {
+    "events": "1.0.2"
+  },
+  "description": "react-native library for wechat app",
+  "homepage": "https://github.com/weflex/react-native-wechat#readme",
+  "keywords": [
+    "wechat",
+    "react",
+    "react-native",
+    "react-component",
+    "ios"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-wechat",
+  "peerDependencies": {
+    "react-native": ">=0.40"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/weflex/react-native-wechat.git"
+  },
+  "scripts": {
+    "test": "echo 1"
+  },
+  "version": "1.10.0"
+}
